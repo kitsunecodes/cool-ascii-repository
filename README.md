@@ -1,1 +1,1 @@
-this is something to help get ascii art if you don't know how. if you contribute to these projects then please just know this is only files that fetch the ascii art. by the way you need powershell because these are ps1 files, these are probably compatible with bash tho idk
+this is something to help get ascii art if you don't know how. if you contribute to these projects then please just know this is only files that fetch the ascii art. by the way you need powershell because these are ps1 files, these are probably compatible with .sh files tho idk
